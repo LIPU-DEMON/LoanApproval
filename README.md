@@ -20,4 +20,6 @@ Data-Source: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-p
 <li>Data Preprocessing For Categorical Dataset</li>
 <li>Model-Training</li>
 <li>Evaluation</li>
+<li>Tuning Model</li>
+<li>Boosting Model using StackingClassifier</li>
 <li>Final Reports</li>
