@@ -1,4 +1,4 @@
-# LoanApproval
+# LoanApproval -  JUST FOR PRACTICE
 A simple Manual ML model to predict approval for Loan <br>
 Data-Source: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
 ## Features
